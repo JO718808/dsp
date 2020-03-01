@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
-Python 3 installed. It is the recommended version. 
+Python 3 installed. It will eventually take over Python 2 and many developers are creating libraries strictly for use with Python 3. 
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
-Python 3.7.3
+Python version 3.7.3
 
  
 
